@@ -53,9 +53,9 @@ Makefile
 # IDE
 .idea/
 .vscode/
+.cache
+
 
 # Compiled binaries
-bit_demo
-bit_tests
 *.o
 *.out
